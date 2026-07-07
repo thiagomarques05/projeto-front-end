@@ -1,6 +1,7 @@
 html {
     filter: invert(1) hue-rotate(180deg);
-    background-color: #000000;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 #bg-music {
