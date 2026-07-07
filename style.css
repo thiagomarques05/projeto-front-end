@@ -11,4 +11,10 @@ body {
     font-family: 'Arial', sans-serif;
     color: #ffffff;
     background-color: #000000;
+
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    min-height: 100vh;       /* Takes up full screen height */
+    margin: 0;               /* Removes default browser spacing */
 }
