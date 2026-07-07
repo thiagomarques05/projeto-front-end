@@ -1,5 +1,8 @@
-html 
-{
+html {
     filter: invert(1) hue-rotate(180deg);
     background-color: #000000;
+}
+
+#bg-music {
+  display: none;
 }
