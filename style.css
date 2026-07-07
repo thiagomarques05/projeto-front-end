@@ -1,7 +1,11 @@
-html {
+body {
     filter: invert(1) hue-rotate(180deg);
     background-color: #ffffff;
-    color: #000000;
+}
+
+p {
+  font-family: 'Arial', sans-serif;
+  color: #ff5733;
 }
 
 #bg-music {
