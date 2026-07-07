@@ -1,10 +1,4 @@
-body 
-{
+html {
+    filter: invert(1) hue-rotate(180deg);
     background-color: #000000;
-    color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-h1, h2, h3 {
-  font-family: "Times New Roman", Times, serif;
 }
