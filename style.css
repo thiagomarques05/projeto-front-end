@@ -1,11 +1,12 @@
-body {
-    filter: invert(1) hue-rotate(180deg);
-    background-color: #ffffff;
+.foto-perfil {
+    width: 300px;
 }
 
-p {
-  font-family: 'Arial', sans-serif;
-  color: #000000;
+body 
+{
+    font-family: 'Arial', sans-serif;
+     color: #ffffff;
+    background-color: ##000000;
 }
 
 #bg-music {
