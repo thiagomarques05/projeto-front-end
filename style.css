@@ -5,6 +5,13 @@
     margin-bottom: 15px;
 }
 
+
+
+.nome-perfil  {
+  width: 150px;
+  height: auto; /* Keeps the aspect ratio proportional */
+}
+
 body {
 
     font-family: 'Arial', sans-serif;
