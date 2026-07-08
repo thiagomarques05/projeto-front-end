@@ -1,4 +1,4 @@
-.nome-perfil  
+.nome
 {
     width: 200px;
     height: auto; /* Keeps the aspect ratio proportional */
@@ -8,7 +8,7 @@
     align-items: center;     /* Centers vertically */
 }
 
-.foto-perfil 
+.toby
 {
     width: 50px;
     height: auto; 
