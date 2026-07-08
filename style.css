@@ -25,6 +25,7 @@ body
     background-color: #000000;
     display: flex;
     justify-content: center; /* Centers horizontally */
-    align-items: center;     /* Centers vertically */
+    align-items: center;   
+    text-align: center;  /* Centers vertically */
     height: 100vh;           /* Make sure the container has a defined heigh */
 }
