@@ -1,19 +1,25 @@
+.nome-perfil  
+{
+    width: 200px;
+    height: auto; /* Keeps the aspect ratio proportional */
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+}
+
 .foto-perfil 
 {
-    width: 300px;
-    object-fit: cover;
+    width: 50px;
+    height: auto; 
     margin-bottom: 15px;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
 }
 
-
-
-.nome-perfil  {
-  width: 150px;
-  height: auto; /* Keeps the aspect ratio proportional */
-}
-
-body {
-
+body 
+{
     font-family: 'Arial', sans-serif;
     color: #ffffff;
     background-color: #000000;
