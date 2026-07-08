@@ -1,5 +1,4 @@
-.nome
-{
+.nome {
     width: 200px;
     height: auto; /* Keeps the aspect ratio proportional */
     margin-bottom: 15px;
@@ -8,8 +7,7 @@
     align-items: center;     /* Centers vertically */
 }
 
-.toby
-{
+.toby {
     width: 50px;
     height: auto; 
     margin-bottom: 15px;
@@ -18,7 +16,7 @@
     align-items: center;     /* Centers vertically */
 }
 
-container-perfil
+.container-perfil
 {
     font-family: 'Arial', sans-serif;
     color: #ffffff;
